@@ -508,6 +508,7 @@ json-logging = ["json-logging"]
 test = ["pytest", "coverage", "requests", "nbval", "selenium", "pytest-cov", "requests-unixsocket"]
 
 [[package]]
+<<<<<<< HEAD
 name = "numpy"
 version = "1.22.3"
 description = "NumPy is the fundamental package for array computing with Python."
@@ -516,6 +517,8 @@ optional = false
 python-versions = ">=3.8"
 
 [[package]]
+=======
+>>>>>>> 9dd0e4c86ccafaf36f399f5f98ad32c6ab24e089
 name = "packaging"
 version = "21.3"
 description = "Core utilities for Python packages"
@@ -856,7 +859,11 @@ notebook = ">=4.4.1"
 [metadata]
 lock-version = "1.1"
 python-versions = "3.10.*"
+<<<<<<< HEAD
 content-hash = "584ccdd0963c4427a220d8da311b55c0a2067945267c0c1ee4b8b7c9e052b349"
+=======
+content-hash = "100eb9877727a7e64b1a530f1d0b0fdf3c2e1f598841e4bb752e5c6348d47faa"
+>>>>>>> 9dd0e4c86ccafaf36f399f5f98ad32c6ab24e089
 
 [metadata.files]
 appnope = [
