@@ -8,6 +8,8 @@ authors = ["Jakub Michalak <michalakjakub1999@gmail.com>"]
 python = "3.10.*"
 jupyter = "^1.0.0"
 numpy = "^1.22.3"
+pandas = "^1.4.1"
+sklearn = "^0.0"
 
 [tool.poetry.dev-dependencies]
 
