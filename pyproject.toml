@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "csgo-round-prediction"
+version = "0.1.0"
+description = ""
+authors = ["Jakub Michalak <michalakjakub1999@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "3.10.*"
+jupyter = "^1.0.0"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
