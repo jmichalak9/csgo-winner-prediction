@@ -10,6 +10,7 @@ jupyter = "^1.0.0"
 numpy = "^1.22.3"
 pandas = "^1.4.1"
 sklearn = "^0.0"
+seaborn = "^0.11.2"
 
 [tool.poetry.dev-dependencies]
 
